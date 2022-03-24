@@ -48,3 +48,21 @@ pages={103--110},
 year={2016}
 }
 ```
+
+dataset link: https://zenodo.org/record/5585638
+
+```
+@dataset{tomislav_duricic_2021_5585638,
+  author       = {Tomislav Duricic and
+                  Dominik Kowald and
+                  Markus Schedl and
+                  Elisabeth Lex},
+  title        = {LFM Social Connections},
+  month        = oct,
+  year         = 2021,
+  publisher    = {Zenodo},
+  doi          = {10.5281/zenodo.5585638},
+  url          = {https://doi.org/10.5281/zenodo.5585638}
+}
+```
+
