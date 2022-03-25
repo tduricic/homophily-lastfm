@@ -57,7 +57,7 @@ dataset link: https://zenodo.org/record/5585638
                   Dominik Kowald and
                   Markus Schedl and
                   Elisabeth Lex},
-  title        = {LFM Social Connections},
+  title        = {Last.fm Social Connections},
   month        = oct,
   year         = 2021,
   publisher    = {Zenodo},
